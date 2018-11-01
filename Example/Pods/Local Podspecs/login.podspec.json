@@ -1,0 +1,22 @@
+{
+  "name": "login",
+  "version": "0.1.0",
+  "summary": "A short description of login.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qibo.Huang@lcola.cn/login",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qibo.Huang@lcola.cn": "qibo.huang@lcola.cn"
+  },
+  "source": {
+    "git": "https://github.com/qibo.Huang@lcola.cn/login.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "login/Classes/**/*"
+}
